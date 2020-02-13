@@ -1,0 +1,22 @@
+.container-fluid{
+    padding:30px;
+}
+#city{
+    margin-bottom:30px;
+}
+h1{
+    color:#ab4c4c;
+    margin-bottom:10px;
+}
+#select{
+    display:block;
+    margin-bottom:10px;
+}
+body{
+    padding-left:0.5%;
+}
+#logo{
+    width:100px;
+    margin-top:-20px;
+    margin-bottom:9px;
+}
